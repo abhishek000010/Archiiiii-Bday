@@ -1,0 +1,7 @@
+import streamlit as st
+
+
+
+st.title("Happy birthday Bestiiiiiiiiiiiiiiiiiiiiiiii (Rim / ARchiiiiiiiiiiiiii)")
+st.video('C://Users//ASUS//OneDrive\Desktop//birthday//images//gettyimages-1431488592-640_adpp.mp4')
+st.write(" Happy Birthday! Dear Archiiiiii Wishing you a fantastic birthday filled with joy and happiness! , you are very most soecial good best and important bestfriend in my life , and your are the most strongest bestiiii i have eveer seen and th  cry baby tooo but even thoo  u matter so much you are the most intelligent girl and very calmest and angriest like a cattyyy the best thing is you very supportive friend and helpy person you support everyone and there for them whenever someone is needed your help and you are very much good in nature while talking , listening and speaking you deserve a good and the better future life and the very most religius girl i have ever seen who loves god and the god loves you back and you are the very smiley friendly and lamy person hope u will get success in your life and u will achieve whatever u want in your life you have passion and ability to achieve and u will achieve it fsss i believe on you and i will alwys stand for u whenever u need something in your life dont think u are alone i am always be on your side you are the best person and again happy birthday to you archiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii")
